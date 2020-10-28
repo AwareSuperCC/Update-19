@@ -1,16 +1,15 @@
-# covid19
+# Update19
 
-App that monitors covid 19 cases,deaths etc
+App that monitors covid 19 cases Around the world
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an app created on flutter during the quarantine period of May 2020
+It has the statistics of 135 Countries And also the Global Stats
+The Statistics that are provided are:
+-Daily Cases
+-Daily Deaths
+-Active Cases
+-Total Cases
+-Total Deaths
+-Total Recoveries
